@@ -1,10 +1,10 @@
 <p align="center">
-    <img alt="shirotelin logo" src="./images/shirotelin.png" height="200" />
     <h2 align="center">notelight</h2>
     <p align="center">notelight is good contrast light colorscheme for Vim and Neovim!</p>
 </p>
 
 ![reviewdog](https://github.com/yasukotelin/notelight/workflows/reviewdog/badge.svg)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/yasukotelin/notelight)
 
 - Supports Windows, macOS and Linux!
 - Supported CUI and GUI.
@@ -14,7 +14,6 @@
 ## Supported Plugins Color⛏
 
 - [✔] Markdown https://github.com/plasticboy/vim-markdown
-- [✔] lightline.vim https://github.com/itchyny/lightline.vim
 - [✔] NERDTree https://github.com/preservim/nerdtree
 - [✔] NERDTree + vim-devicons https://github.com/ryanoasis/vim-devicons
 - [✔] dart-vim-plugin https://github.com/dart-lang/dart-vim-plugin
@@ -22,7 +21,6 @@
 - [✔] coc.nvim https://github.com/neoclide/coc.nvim
 - [✔] coc-flutter https://www.npmjs.com/package/coc-flutter
 - [✔] vim-go https://github.com/fatih/vim-go
-- [✔] vim-clap https://github.com/liuchengxu/vim-clap
 
 ## Install
 
@@ -52,7 +50,7 @@ colorscheme shirotelin
 
 Supported diff color 🤷‍♂️
 
-<img src="images/shirotelin-diff.png">
+<img src="images/notelight-diff.png">
 
 ## Licence
 
