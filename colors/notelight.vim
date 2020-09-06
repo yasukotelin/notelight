@@ -28,8 +28,8 @@ let g:colors_name = "notelight"
 hi Comment term=NONE cterm=NONE ctermfg=22 gui=NONE guifg=#005f00
 
 hi Constant term=NONE cterm=NONE ctermfg=18 gui=NONE guifg=#000087
-hi String term=NONE cterm=NONE ctermfg=25 gui=NONE guifg=#005faf
-hi Character term=NONE cterm=NONE ctermfg=25 gui=NONE guifg=#005faf
+hi String term=NONE cterm=NONE ctermfg=92 gui=NONE guifg=#8700d7
+hi Character term=NONE cterm=NONE ctermfg=92 gui=NONE guifg=#8700d7
 hi Number term=NONE cterm=NONE ctermfg=18 gui=NONE guifg=#000087
 hi Boolean term=NONE cterm=NONE ctermfg=18 gui=NONE guifg=#000087
 hi Float term=NONE cterm=NONE ctermfg=18 gui=NONE guifg=#000087
@@ -37,13 +37,13 @@ hi Float term=NONE cterm=NONE ctermfg=18 gui=NONE guifg=#000087
 hi Identifier term=NONE cterm=NONE ctermfg=127 gui=NONE guifg=#af00af
 hi Function term=NONE cterm=NONE ctermfg=127 gui=NONE guifg=#af00af
 
-hi Statement term=NONE cterm=NONE ctermfg=21 gui=NONE guifg=#0000ff
-hi Conditional term=NONE cterm=NONE ctermfg=21 gui=NONE guifg=#0000ff
-hi Repeat term=NONE cterm=NONE ctermfg=21 gui=NONE guifg=#0000ff
-hi Label term=NONE cterm=NONE ctermfg=21 gui=NONE guifg=#0000ff
-hi Operator term=NONE cterm=NONE ctermfg=21 gui=NONE guifg=#0000ff
-hi Keyword term=NONE cterm=NONE ctermfg=21 gui=NONE guifg=#0000ff
-hi Exception term=NONE cterm=NONE ctermfg=21 gui=NONE guifg=#0000ff
+hi Statement term=NONE cterm=NONE ctermfg=20 gui=NONE guifg=#0000d7
+hi Conditional term=NONE cterm=NONE ctermfg=20 gui=NONE guifg=#0000d7
+hi Repeat term=NONE cterm=NONE ctermfg=20 gui=NONE guifg=#0000d7
+hi Label term=NONE cterm=NONE ctermfg=20 gui=NONE guifg=#0000d7
+hi Operator term=NONE cterm=NONE ctermfg=20 gui=NONE guifg=#0000d7
+hi Keyword term=NONE cterm=NONE ctermfg=20 gui=NONE guifg=#0000d7
+hi Exception term=NONE cterm=NONE ctermfg=20 gui=NONE guifg=#0000d7
 
 hi PreProc term=NONE cterm=NONE ctermfg=89 gui=NONE guifg=#87005f
 hi Include term=NONE cterm=NONE ctermfg=89 gui=NONE guifg=#87005f
@@ -51,10 +51,10 @@ hi Define term=NONE cterm=NONE ctermfg=89 gui=NONE guifg=#87005f
 hi Macro term=NONE cterm=NONE ctermfg=89 gui=NONE guifg=#87005f
 hi PreCondit term=NONE cterm=NONE ctermfg=89 gui=NONE guifg=#87005f
 
-hi Type term=NONE cterm=NONE ctermfg=21 gui=NONE guifg=#0000ff
-hi StorageClass term=NONE cterm=NONE ctermfg=21 gui=NONE guifg=#0000ff
-hi Structure term=NONE cterm=NONE ctermfg=21 gui=NONE guifg=#0000ff
-hi Typedef term=NONE cterm=NONE ctermfg=21 gui=NONE guifg=#0000ff
+hi Type term=NONE cterm=NONE ctermfg=20 gui=NONE guifg=#0000d7
+hi StorageClass term=NONE cterm=NONE ctermfg=20 gui=NONE guifg=#0000d7
+hi Structure term=NONE cterm=NONE ctermfg=20 gui=NONE guifg=#0000d7
+hi Typedef term=NONE cterm=NONE ctermfg=20 gui=NONE guifg=#0000d7
 
 hi Special term=NONE cterm=NONE ctermfg=92 gui=NONE guifg=#8700d7
 hi SpecialChar term=NONE cterm=NONE ctermfg=92 gui=NONE guifg=#8700d7
@@ -120,7 +120,7 @@ hi SpellBad term=underline cterm=underline ctermbg=231 gui=underline guibg=#0000
 hi SpellCap term=underline cterm=underline ctermbg=4 gui=underline guibg=#000080
 hi SpellLocal term=underline cterm=underline ctermbg=127  gui=underline guibg=#af00af
 hi SpellRare term=underline cterm=underline ctermbg=115 gui=underline guibg=#87d7af
-hi StatusLine term=bold cterm=bold ctermbg=249 ctermfg=16 gui=bold guifg=#000000 guifg=#000000 guibg=#b2b2b2
+hi StatusLine term=bold cterm=bold ctermbg=252 ctermfg=16 gui=bold guifg=#000000 guifg=#000000 guibg=#d0d0d0
 hi StatusLineNC term=bold cterm=bold ctermbg=240 ctermfg=16 gui=bold guifg=#000000 guibg=#585858 guifg=#000000
 hi StatusLineTerm term=bold cterm=bold ctermbg=18 ctermfg=231 gui=bold guifg=#ffffff guibg=#000087
 hi StatusLineTermNC term=bold cterm=bold ctermbg=245 ctermfg=231 gui=bold guifg=#ffffff guibg=#8a8a8a
