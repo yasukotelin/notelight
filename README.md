@@ -9,7 +9,7 @@
 - Supports Windows, macOS and Linux!
 - Supported CUI and GUI.
 
-<img src="./images/notelight.png" />
+<img src="./images/notelight2.png" />
 
 ## Supported Plugins Color⛏
 
