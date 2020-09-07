@@ -9,7 +9,7 @@
 - Supports Windows, macOS and Linux!
 - Supported CUI and GUI.
 
-<img src="./images/notelight2.png" />
+<!-- <img src="./images/notelight2.png" /> -->
 
 ## Supported Plugins Color⛏
 
@@ -50,7 +50,7 @@ colorscheme shirotelin
 
 Supported diff color 🤷‍♂️
 
-<img src="images/notelight-diff.png">
+<!-- <img src="images/notelight-diff.png"> -->
 
 ## Licence
 
